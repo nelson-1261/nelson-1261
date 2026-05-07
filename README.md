@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</> Markdown
+
+# Olá, eu sou Nelson 👋
+
+🎓 Estudante de Tecnologia  
+💻 Aprendendo Python, Git e GitHub  
+🚀 Desenvolvendo projetos com VS Code  
+📚 Atualmente estudando desenvolvimento web e automação  
+🔧 Projetos em Python e Django  
+
+## Tecnologias que estou aprendendo
+
+- Python
+- Git e GitHub
+- HTML e CSS
+- Django
+- VS Code
+
+
